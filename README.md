@@ -112,29 +112,4 @@ Includes:
 - Working with modules and DOM in TS
 - Namespace usage and declaration merging
 
-## 🧪 Testing
 
-Some projects include test scripts using Node.js. Run tests using:
-```bash
-npm install
-npm test
-```
-
-## 🗆 Installation
-
-Clone the repo and navigate into a project directory:
-```bash
-git clone https://github.com/your-username/alx-frontend-javascript.git
-cd alx-frontend-javascript/0x00-ES6_basic
-node <filename.js>
-```
-
-## 🧑‍💻 Author
-
-**Priscilla Wangila**  
-Frontend Developer | ALX SE Program  
-🌍 Kenya
-
-## 📄 License
-
-This project is licensed under the ALX Program's guidelines and usage policy.
